@@ -1,3 +1,14 @@
+This is the software simulation code that accompanies my paper:
+
+Biomechanics of the vibrissa motor plant in rat: rhythmic whisking consists of triphasic neuromuscular activity
+DN Hill, R Bermejo, HP Zeigler, D Kleinfeld
+The Journal of Neuroscience 28 (13), 3438-3455
+
+Please see this reference for details on the model.
+
+----------
+Notes:
+
 Modify sim_params in order to change parameters of a simulation run.
 
 Run sim_init to run the simulation.
